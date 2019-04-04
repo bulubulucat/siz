@@ -10,6 +10,7 @@ npm i siz --save
 
 ```
 import siz from 'siz';
+// or const siz = require('siz');
 
 siz('100kb');
 102400
